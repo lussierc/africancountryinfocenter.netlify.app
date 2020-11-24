@@ -16,7 +16,7 @@ metaDescription: Country Page Post
 - African Subregion:
 
 ### Country Flag
-![Country Flag]()
+![Country Flag](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png1000px/ .png)
 
 ## Economic Information
  - GDP (thousands):
