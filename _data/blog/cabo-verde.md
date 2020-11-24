@@ -1,33 +1,34 @@
 ---
 template: BlogPost
-path: /burkina-faso
+path: /cabo-verde
 date: 2020-11-23T07:08:53.137Z
-title: Burkina Faso
-thumbnail: '/assets/capitals/burkina-faso.jpg'
+title: Cape Verde
+thumbnail: '/assets/capitals/cabo-verde.jpg'
 metaDescription: Country Page Post
 ---
 
-# General Information about Burkina Faso
+# General Information about Cape Verde
 
-- Name: Burkina Faso
-- African Abbreviation: BF
-- Capital City: Ouagadougou
-- Population: 20,903,273
+- Name: Cape Verde
+- AKA: Cabo Verde
+- African Abbreviation: CV
+- Capital City: Praia
+- Population: 555,987
 - African Subregion: Western Africa
 
 ### Country Flag
-![Country Flag](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png1000px/bf.png)
+![Country Flag](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png1000px/cv.png)
 
 ## Economic Information
- - GDP (thousands): 15,745,810.23
+ - GDP (thousands): 1,981,845.74
  - GDP Growth (annual %) in 2019: 5.7
- - GDP Per Capita: 774.8
+ - GDP Per Capita: 3603.8
 
-## An Overview of Burkina Faso
+## An Overview of Cape Verde
 Writeup here
 
 #### References:
-- [Capital Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/OUAGADOUGOU3.JPG/1200px-OUAGADOUGOU3.JPG)
+- [Capital Image](https://www.worldatlas.com/upload/10/48/d5/shutterstock-317019080.jpg)
 - [Flags](https://github.com/hjnilsson/country-flags)
 - [Abbreviation](https://planetarynames.wr.usgs.gov/Abbreviations)
 - [Capital Cities](https://www.nationsonline.org/oneworld/capitals_africa.htm)

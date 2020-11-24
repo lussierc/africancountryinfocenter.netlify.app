@@ -7,7 +7,7 @@ thumbnail: '/assets/capitals/burundi.jpg'
 metaDescription: Country Page Post
 ---
 
-# General Information about Algeria
+# General Information about Burundi
 
 - Name: Burundi
 - African Abbreviation: BR
@@ -23,7 +23,7 @@ metaDescription: Country Page Post
  - GDP Growth (annual %) in 2019: 1.8
  - GDP Per Capita: 261.2
 
-## An Overview of Algeria
+## An Overview of Burundi
 Writeup here
 
 #### References:
