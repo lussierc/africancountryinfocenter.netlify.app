@@ -16,14 +16,14 @@ metaDescription: Country Page Post
 - African Subregion:
 
 ### Country Flag
-![Country Flag](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png1000px/ .png)
+![Country Flag](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png1000px/td.png)
 
 ## Economic Information
  - GDP (thousands):
  - GDP Growth (annual %) in 2019:
  - GDP Per Capita:
 
-## An Overview of Algeria
+## A Brief Overview of
 Writeup here
 
 #### References:
@@ -33,3 +33,4 @@ Writeup here
 - [Capital Cities](https://www.nationsonline.org/oneworld/capitals_africa.htm)
 - [Population](https://www.worldometers.info/population/countries-in-africa-by-population/)
 - [Economic Information](https://data.worldbank.org/)
+- [Writeup Information](https://www.iexplore.com/articles/travel-guides/africa/ /history-and-culture)
