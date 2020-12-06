@@ -18,11 +18,6 @@ metaDescription: Country Page Post
 ### Country Flag
 ![Country Flag](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png1000px/eg.png)
 
-## Economic Information
- - GDP (thousands): 47,319,624.20
- - GDP Growth (annual %) in 2019: 4.4
- - GDP Per Capita: 545.2
-
 ## A Brief Overview of Egypt
 Egypt is one of the earliest civilizations and is a melting pot of sorts. Tourism is one of the main sources of income in the country and Egyptians are known for their good hospitality.
 

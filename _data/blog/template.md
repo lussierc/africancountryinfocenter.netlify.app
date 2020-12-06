@@ -33,4 +33,4 @@ Writeup here
 - [Capital Cities](https://www.nationsonline.org/oneworld/capitals_africa.htm)
 - [Population](https://www.worldometers.info/population/countries-in-africa-by-population/)
 - [Economic Information](https://data.worldbank.org/)
-- [Writeup Information](https://www.iexplore.com/articles/travel-guides/africa/ /history-and-culture)
+- [Writeup Information]()
