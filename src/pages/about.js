@@ -11,8 +11,8 @@ const AboutPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>Contact — {site.siteMetadata.title}</title>
-        <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
+        <title>About — {site.siteMetadata.title}</title>
+        <meta name="description" content={"About page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('https://iea.imgix.net/5f8a3b57-74e5-423b-8d00-86afeeef7b3a/GettyImages-175566839.jpg?auto=compress%2Cformat&fit=min&q=80&rect=496%2C4491%2C3618%2C2402&w=1280&h=850&fit=crop&fm=jpg&q=70&auto=format')`, marginBottom: 0}}>
