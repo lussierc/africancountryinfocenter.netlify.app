@@ -23,9 +23,6 @@ metaDescription: Country Page Post
  - GDP Growth (annual %) in 2019: -.9
  - GDP Per Capita: 2973.6
 
-## An Overview of Angola
-Writeup here
-
 #### References:
 - [Capital Image](https://cdn.britannica.com/31/195831-050-ABDCE370/Luanda-Angola.jpg)
 - [Flags](https://github.com/hjnilsson/country-flags)

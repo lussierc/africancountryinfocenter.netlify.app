@@ -23,9 +23,6 @@ metaDescription: Country Page Post
  - GDP Growth (annual %) in 2019: 1.8
  - GDP Per Capita: 261.2
 
-## An Overview of Burundi
-Writeup here
-
 #### References:
 - [Capital Image](https://cdn.britannica.com/63/125063-050-332A70CC/Bujumbura-Burundi.jpg)
 - [Flags](https://github.com/hjnilsson/country-flags)

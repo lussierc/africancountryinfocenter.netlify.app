@@ -23,9 +23,6 @@ metaDescription: Country Page Post
  - GDP Growth (annual %) in 2019: 3
  - GDP Per Capita: 7691.3
 
-## An Overview of Botswana
-Writeup here
-
 #### References:
 - [Capital Image](https://i.pinimg.com/736x/e2/8d/cb/e28dcbadce1e48e6e39bdb67e4b26697.jpg)
 - [Flags](https://github.com/hjnilsson/country-flags)

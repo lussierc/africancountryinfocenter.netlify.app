@@ -23,9 +23,6 @@ metaDescription: Country Page Post
  - GDP Growth (annual %) in 2019: 5.7
  - GDP Per Capita: 774.8
 
-## An Overview of Burkina Faso
-Writeup here
-
 #### References:
 - [Capital Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/OUAGADOUGOU3.JPG/1200px-OUAGADOUGOU3.JPG)
 - [Flags](https://github.com/hjnilsson/country-flags)

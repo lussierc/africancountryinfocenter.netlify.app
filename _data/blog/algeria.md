@@ -23,9 +23,6 @@ metaDescription: Algeria Page
  - GDP Growth (annual %) in 2019:
  - GDP Per Capita:
 
-## An Overview of Algeria
-Writeup here
-
 #### References:
 - [Capital Image](https://cdn.britannica.com/00/77300-050-F7C43044/View-city-Algiers-Algeria.jpg)
 - [Flags](https://github.com/hjnilsson/country-flags)

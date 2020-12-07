@@ -23,9 +23,6 @@ metaDescription: Country Page Post
  - GDP Growth (annual %) in 2019: 3%
  - GDP Per Capita: 467.9
 
-## An Overview of Central African Republic
-Writeup here
-
 #### References:
 - [Capital Image]()
 - [Flags](https://github.com/hjnilsson/country-flags)

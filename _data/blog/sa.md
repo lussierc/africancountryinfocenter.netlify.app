@@ -3,7 +3,7 @@ template: BlogPost
 path: /sa
 date: 2020-11-23T07:08:53.137Z
 title: South Africa
-thumbnail: ''
+thumbnail: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/2e/1e/cape-town.jpg?w=1000&h=600&s=1'
 metaDescription: Country Page Post
 ---
 
@@ -28,7 +28,7 @@ metaDescription: Country Page Post
 "A great gulf still exists between the white minority and the Black majority in matters of education and economic opportunity. Yet, South Africa is making steady progress in erasing some of these historic disparities and their consequences. Daily life is better for most of its people, and culture and the arts, which sometimes were forced into exile, are flourishing in the free climate of the postapartheid era."
 
 #### References:
-- [Capital Image]()
+- [Capital Image](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/14/10/2e/1e/cape-town.jpg?w=1000&h=600&s=1)
 - [Flags](https://github.com/hjnilsson/country-flags)
 - [Abbreviation](https://planetarynames.wr.usgs.gov/Abbreviations)
 - [Capital Cities](https://www.nationsonline.org/oneworld/capitals_africa.htm)

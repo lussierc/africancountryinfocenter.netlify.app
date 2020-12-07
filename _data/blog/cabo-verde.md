@@ -24,9 +24,6 @@ metaDescription: Country Page Post
  - GDP Growth (annual %) in 2019: 5.7
  - GDP Per Capita: 3603.8
 
-## An Overview of Cape Verde
-Writeup here
-
 #### References:
 - [Capital Image](https://www.worldatlas.com/upload/10/48/d5/shutterstock-317019080.jpg)
 - [Flags](https://github.com/hjnilsson/country-flags)

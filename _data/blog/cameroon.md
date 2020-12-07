@@ -23,9 +23,6 @@ metaDescription: Country Page Post
  - GDP Growth (annual %) in 2019: 4
  - GDP Per Capita: 1497.9
 
-## An Overview of Cameroon
-Writeup here
-
 #### References:
 - [Capital Image](https://www.nationsonline.org/gallery/Cameroon/Yaounde-City.jpg)
 - [Flags](https://github.com/hjnilsson/country-flags)

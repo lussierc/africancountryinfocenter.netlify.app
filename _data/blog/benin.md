@@ -23,9 +23,6 @@ metaDescription: Country Page Post
  - GDP Growth (annual %) in 2019: 6.9
  - GDP Per Capita: 1219.4
 
-## An Overview of Benin
-Writeup here
-
 #### References:
 - [Capital Image](https://i.pinimg.com/originals/ce/2f/7f/ce2f7f0e54be0fb741ad055973ee56e2.jpg)
 - [Flags](https://github.com/hjnilsson/country-flags)
