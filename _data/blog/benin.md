@@ -3,7 +3,7 @@ template: BlogPost
 path: /benin
 date: 2020-11-23T07:08:53.137Z
 title: Benin
-thumbnail: '/assets/capitals/benin.jpg'
+thumbnail: 'https://i.pinimg.com/originals/ce/2f/7f/ce2f7f0e54be0fb741ad055973ee56e2.jpg'
 metaDescription: Country Page Post
 ---
 
@@ -22,9 +22,6 @@ metaDescription: Country Page Post
  - GDP (thousands): 14,390,709.09
  - GDP Growth (annual %) in 2019: 6.9
  - GDP Per Capita: 1219.4
-
-## An Overview of Benin
-Writeup here
 
 #### References:
 - [Capital Image](https://i.pinimg.com/originals/ce/2f/7f/ce2f7f0e54be0fb741ad055973ee56e2.jpg)

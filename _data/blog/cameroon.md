@@ -1,30 +1,30 @@
 ---
 template: BlogPost
-path: /angola
+path: /cameroon
 date: 2020-11-23T07:08:53.137Z
-title: Angola
-thumbnail: 'https://cdn.britannica.com/31/195831-050-ABDCE370/Luanda-Angola.jpg'
+title: Cameroon
+thumbnail: 'https://www.nationsonline.org/gallery/Cameroon/Yaounde-City.jpg'
 metaDescription: Country Page Post
 ---
 
-# General Information about Angola
+# General Information about Cameroon
 
-- Name: Angola
-- African Abbreviation: AN
-- Capital City: Luanda
-- Population: 32,866,272
+- Name: Cameroon
+- African Abbreviation: CR
+- Capital City: Yaoundé
+- Population: 26,545,863
 - African Subregion: Middle Africa
 
 ### Country Flag
-![Country Flag](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png1000px/ao.png)
+![Country Flag](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png1000px/cm.png)
 
 ## Economic Information
- - GDP (thousands): 94,635,415.87
- - GDP Growth (annual %) in 2019: -.9
- - GDP Per Capita: 2973.6
+ - GDP (thousands): 38,760,467.03
+ - GDP Growth (annual %) in 2019: 4
+ - GDP Per Capita: 1497.9
 
 #### References:
-- [Capital Image](https://cdn.britannica.com/31/195831-050-ABDCE370/Luanda-Angola.jpg)
+- [Capital Image](https://www.nationsonline.org/gallery/Cameroon/Yaounde-City.jpg)
 - [Flags](https://github.com/hjnilsson/country-flags)
 - [Abbreviation](https://planetarynames.wr.usgs.gov/Abbreviations)
 - [Capital Cities](https://www.nationsonline.org/oneworld/capitals_africa.htm)

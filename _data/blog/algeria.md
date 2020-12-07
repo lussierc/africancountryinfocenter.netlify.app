@@ -3,7 +3,7 @@ template: BlogPost
 path: /algeria
 date: 2020-11-23T07:08:53.137Z
 title: Algeria
-thumbnail: '/assets/capitals/algeria.jpg'
+thumbnail: 'https://cdn.britannica.com/00/77300-050-F7C43044/View-city-Algiers-Algeria.jpg'
 metaDescription: Algeria Page
 ---
 
@@ -22,9 +22,6 @@ metaDescription: Algeria Page
  - GDP (thousands):
  - GDP Growth (annual %) in 2019:
  - GDP Per Capita:
-
-## An Overview of Algeria
-Writeup here
 
 #### References:
 - [Capital Image](https://cdn.britannica.com/00/77300-050-F7C43044/View-city-Algiers-Algeria.jpg)
