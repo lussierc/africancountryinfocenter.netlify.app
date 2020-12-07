@@ -3,7 +3,7 @@ template: BlogPost
 path: /libya
 date: 2020-11-23T07:08:53.137Z
 title: Libya
-thumbnail: '/assets/capitals/libya'
+thumbnail: 'https://www.worldatlas.com/upload/8a/51/8d/tripoli-libya-capital-city.jpg'
 metaDescription: Country Page Post
 ---
 

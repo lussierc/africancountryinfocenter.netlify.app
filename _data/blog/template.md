@@ -3,7 +3,7 @@ template: BlogPost
 path: /template
 date: 2020-11-23T07:08:53.137Z
 title: Template
-thumbnail: '/assets/capitals/'
+thumbnail: ''
 metaDescription: Country Page Post
 ---
 
