@@ -3,7 +3,7 @@ template: BlogPost
 path: /lesotho
 date: 2020-11-23T07:08:53.137Z
 title: Lesotho
-thumbnail: '/assets/capitals/lesotho.jpg'
+thumbnail: 'https://cdn.britannica.com/18/195818-050-5E2E93BA/Maseru-Lesotho.jpg'
 metaDescription: Country Page Post
 ---
 

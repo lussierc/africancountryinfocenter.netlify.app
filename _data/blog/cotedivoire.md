@@ -3,7 +3,7 @@ template: BlogPost
 path: /cotedivoire
 date: 2020-11-23T07:08:53.137Z
 title: Cote d'Ivoire
-thumbnail: '/assets/capitals/cote.jpg'
+thumbnail: 'https://cdn.britannica.com/28/194928-050-D09481CB/Yamoussoukro-Basilica-Cote-dIvoire.jpg'
 metaDescription: Country Page Post
 ---
 
@@ -29,7 +29,7 @@ Cote d'Ivoire, sitting on the Ivory Coast, has a colorful culture with over 60 d
 
 A military coup began in December 1999 which overthrew the government, while an armed rebellion in 2002 split the country in half. After peace accords and more civil wars, the country had its first peaceful vote in 2010 though unrest is still widespread.
 
-Ivoirian cuisine takes inspiration from neighboring Western African countries, and grated cassava is one of the most popular side dishes. Music is used in all kinds of celebrations and instruments include the drum, cleavers, kpalogo, and more. The mask is the most iconic form of art in the country as the intricacy of designs convey cultural systems. There are many different religions prevelant in the country. 
+Ivoirian cuisine takes inspiration from neighboring Western African countries, and grated cassava is one of the most popular side dishes. Music is used in all kinds of celebrations and instruments include the drum, cleavers, kpalogo, and more. The mask is the most iconic form of art in the country as the intricacy of designs convey cultural systems. There are many different religions prevelant in the country.
 
 #### References:
 - [Capital Image](https://cdn.britannica.com/28/194928-050-D09481CB/Yamoussoukro-Basilica-Cote-dIvoire.jpg)

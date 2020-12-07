@@ -3,7 +3,7 @@ template: BlogPost
 path: /eqguinea
 date: 2020-11-23T07:08:53.137Z
 title: Equatorial Guinea
-thumbnail: '/assets/capitals/eqguinea.jpg'
+thumbnail: 'https://www.nationsonline.org/gallery/Equatorial_Guinea/Malabo-Equatorial-Guinea.jpg'
 metaDescription: Country Page Post
 ---
 

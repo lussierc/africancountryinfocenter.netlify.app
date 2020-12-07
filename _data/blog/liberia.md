@@ -3,7 +3,7 @@ template: BlogPost
 path: /liberia
 date: 2020-11-23T07:08:53.137Z
 title: Liberia
-thumbnail: '/assets/capitals/liberia.jpg'
+thumbnail: 'https://cdn.britannica.com/10/210210-050-A31F0882/Monrovia-Liberia.jpg'
 metaDescription: Country Page Post
 ---
 

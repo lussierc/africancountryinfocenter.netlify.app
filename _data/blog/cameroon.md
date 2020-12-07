@@ -3,7 +3,7 @@ template: BlogPost
 path: /cameroon
 date: 2020-11-23T07:08:53.137Z
 title: Cameroon
-thumbnail: '/assets/capitals/cameroon.jpg'
+thumbnail: 'https://www.nationsonline.org/gallery/Cameroon/Yaounde-City.jpg'
 metaDescription: Country Page Post
 ---
 

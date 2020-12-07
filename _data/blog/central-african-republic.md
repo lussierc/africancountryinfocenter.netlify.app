@@ -3,7 +3,7 @@ template: BlogPost
 path: /central-african-republic
 date: 2020-11-23T07:08:53.137Z
 title: Central African Republic
-thumbnail: '/assets/capitals/car.jpg'
+thumbnail: 'https://www.blackpast.org/wp-content/uploads/City_center_Bangui_Central_African_Republic_2014.jpg'
 metaDescription: Country Page Post
 ---
 
@@ -24,7 +24,7 @@ metaDescription: Country Page Post
  - GDP Per Capita: 467.9
 
 #### References:
-- [Capital Image]()
+- [Capital Image](https://www.blackpast.org/wp-content/uploads/City_center_Bangui_Central_African_Republic_2014.jpg)
 - [Flags](https://github.com/hjnilsson/country-flags)
 - [Abbreviation](https://planetarynames.wr.usgs.gov/Abbreviations)
 - [Capital Cities](https://www.nationsonline.org/oneworld/capitals_africa.htm)

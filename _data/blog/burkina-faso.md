@@ -3,7 +3,7 @@ template: BlogPost
 path: /burkina-faso
 date: 2020-11-23T07:08:53.137Z
 title: Burkina Faso
-thumbnail: '/assets/capitals/burkina-faso.jpg'
+thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/OUAGADOUGOU3.JPG/1200px-OUAGADOUGOU3.JPG'
 metaDescription: Country Page Post
 ---
 

@@ -3,7 +3,7 @@ template: BlogPost
 path: /ghana
 date: 2020-11-23T07:08:53.137Z
 title: Ghana
-thumbnail: '/assets/capitals/ghana.jpg'
+thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/b/b6/A_drone_footage_of_Accra_central%2C_Ghana.jpg'
 metaDescription: Country Page Post
 ---
 

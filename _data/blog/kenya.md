@@ -3,7 +3,7 @@ template: BlogPost
 path: /kenya
 date: 2020-11-23T07:08:53.137Z
 title: Kenya
-thumbnail: '/assets/capitals/kenya.jpg'
+thumbnail: 'https://i.pinimg.com/originals/e1/ef/dd/e1efdd138e0410287b90244fe47e28a5.jpg'
 metaDescription: Country Page Post
 ---
 

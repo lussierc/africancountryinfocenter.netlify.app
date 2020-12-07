@@ -3,7 +3,7 @@ template: BlogPost
 path: /gambia
 date: 2020-11-23T07:08:53.137Z
 title: Gambia
-thumbnail: '/assets/capitals/gambia.jpg'
+thumbnail: 'https://www.worldatlas.com/upload/c2/e0/a1/shutterstock-545611225-1.jpg'
 metaDescription: Country Page Post
 ---
 

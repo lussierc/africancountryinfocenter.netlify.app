@@ -3,7 +3,7 @@ template: BlogPost
 path: /guinea
 date: 2020-11-23T07:08:53.137Z
 title: Guinea
-thumbnail: '/assets/capitals/guinea.jpg'
+thumbnail: 'https://upload.wikimedia.org/wikipedia/commons/4/44/Conakry.jpg'
 metaDescription: Country Page Post
 ---
 

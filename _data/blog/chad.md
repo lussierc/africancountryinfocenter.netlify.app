@@ -3,7 +3,7 @@ template: BlogPost
 path: /chad
 date: 2020-11-23T07:08:53.137Z
 title: Chad
-thumbnail: '/assets/capitals/chad.png'
+thumbnail: 'https://i.pinimg.com/originals/a9/87/d2/a987d2ef7d6d066d470182cf4d76607f.png'
 metaDescription: Country Page Post
 ---
 

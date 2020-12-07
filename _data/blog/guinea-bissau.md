@@ -3,7 +3,7 @@ template: BlogPost
 path: /guinea-bissau
 date: 2020-11-23T07:08:53.137Z
 title: Guinea-Bissau
-thumbnail: '/assets/capitals/guinea-bissau.jpg'
+thumbnail: 'https://cdn.britannica.com/93/154493-050-142F8CF0/Bissau-Guinea-Bissau.jpg'
 metaDescription: Country Page Post
 ---
 

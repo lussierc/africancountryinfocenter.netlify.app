@@ -3,7 +3,7 @@ template: BlogPost
 path: /madagascar
 date: 2020-11-23T07:08:53.137Z
 title: Madagascar
-thumbnail: '/assets/capitals/madagascar.jpg'
+thumbnail: 'https://cdn.britannica.com/59/141359-050-59C1D78A/Antananarivo-Madagascar.jpg'
 metaDescription: Country Page Post
 ---
 

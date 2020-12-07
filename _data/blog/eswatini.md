@@ -3,7 +3,7 @@ template: BlogPost
 path: /eswatini
 date: 2020-11-23T07:08:53.137Z
 title: Eswatini
-thumbnail: '/assets/capitals/eswatini.jpg'
+thumbnail: 'https://thecommonwealth.org/sites/default/files/styles/press_release_large/public/images/hero/mbabane-city-aritcle.jpg?itok=qgJWwI9C'
 metaDescription: Country Page Post
 ---
 
@@ -29,7 +29,7 @@ The country has two main cultural events. The first is Incwala which is a comple
 Common musical instruments are simple design, such as a kudu horn, a calabash, the reed flute, and more. Nowadays people listen to the radio or record/tape players.
 
 #### References:
-- [Capital Image](https://nitrocdn.com/nfaJNeGvwHqpsnyXiqJeTAZTBimimjss/assets/static/source/rev-8428f5a/wp-content/uploads/2019/09/Downtown-of-Mbabane-1200.jpg)
+- [Capital Image](https://thecommonwealth.org/sites/default/files/styles/press_release_large/public/images/hero/mbabane-city-aritcle.jpg?itok=qgJWwI9C)
 - [Flags](https://github.com/hjnilsson/country-flags)
 - [Abbreviation](https://planetarynames.wr.usgs.gov/Abbreviations)
 - [Capital Cities](https://www.nationsonline.org/oneworld/capitals_africa.htm)

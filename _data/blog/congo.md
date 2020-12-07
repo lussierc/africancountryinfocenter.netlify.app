@@ -3,7 +3,7 @@ template: BlogPost
 path: /congo
 date: 2020-11-23T07:08:53.137Z
 title: Congo
-thumbnail: '/assets/capitals/congo.jpg'
+thumbnail: 'https://media.cntraveler.com/photos/5a0089f69068b525708f1f4a/16:9/w_4767,h_2681,c_limit/Maphead_Kinshasa--Brazzaville_GettyImages-540026844.jpg'
 metaDescription: Country Page Post
 ---
 

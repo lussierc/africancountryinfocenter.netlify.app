@@ -3,7 +3,7 @@ template: BlogPost
 path: /eritrea
 date: 2020-11-23T07:08:53.137Z
 title: Eritrea
-thumbnail: '/assets/capitals/eritrea.jpg'
+thumbnail: 'https://cdn.britannica.com/19/195819-050-0201D7BF/Asmara-Eritrea.jpg'
 metaDescription: Country Page Post
 ---
 

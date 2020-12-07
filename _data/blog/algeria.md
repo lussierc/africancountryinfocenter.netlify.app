@@ -3,7 +3,7 @@ template: BlogPost
 path: /algeria
 date: 2020-11-23T07:08:53.137Z
 title: Algeria
-thumbnail: '/assets/capitals/algeria.jpg'
+thumbnail: 'https://cdn.britannica.com/00/77300-050-F7C43044/View-city-Algiers-Algeria.jpg'
 metaDescription: Algeria Page
 ---
 

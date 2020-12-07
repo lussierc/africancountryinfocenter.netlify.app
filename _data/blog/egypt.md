@@ -3,7 +3,7 @@ template: BlogPost
 path: /egypt
 date: 2020-11-23T07:08:53.137Z
 title: Egypt
-thumbnail: '/assets/capitals/egypt.jpg'
+thumbnail: 'https://www.nationsonline.org/gallery/Egypt/Cairo-River-Nile-Egypt.jpg'
 metaDescription: Country Page Post
 ---
 

@@ -3,7 +3,7 @@ template: BlogPost
 path: /djibouti
 date: 2020-11-23T07:08:53.137Z
 title: Djibouti
-thumbnail: '/assets/capitals/djibouti.jpg'
+thumbnail: 'https://www.worldatlas.com/upload/d5/71/52/shutterstock-543241918.jpg'
 metaDescription: Country Page Post
 ---
 

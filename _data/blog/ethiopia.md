@@ -3,7 +3,7 @@ template: BlogPost
 path: /ethiopia
 date: 2020-11-23T07:08:53.137Z
 title: Ethiopia
-thumbnail: '/assets/capitals/ethiopia.jpg'
+thumbnail: 'https://im-media.voltron.voanews.com/Drupal/01live-166/styles/sourced/s3/2019-04/8A77E9A0-6A9D-4C81-9775-1C82A7099CC1.jpg?itok=KusGy8-8'
 metaDescription: Country Page Post
 ---
 

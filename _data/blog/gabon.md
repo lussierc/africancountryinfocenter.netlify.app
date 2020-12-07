@@ -3,7 +3,7 @@ template: BlogPost
 path: /gabon
 date: 2020-11-23T07:08:53.137Z
 title: Gabon
-thumbnail: '/assets/capitals/gabon.jpg'
+thumbnail: 'https://www.blackpast.org/wp-content/uploads/prodimages/files/blackpast_images/Libreville_Gabon_2012.jpg'
 metaDescription: Country Page Post
 ---
 

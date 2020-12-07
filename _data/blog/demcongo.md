@@ -3,7 +3,7 @@ template: BlogPost
 path: /demcongo
 date: 2020-11-23T07:08:53.137Z
 title: Congo, the Democratic Republic
-thumbnail: '/assets/capitals/demcongo.jpg'
+thumbnail: 'https://cdn.britannica.com/94/196694-050-7C9D009B/Boulevard-du-30-Juin-street-Kinshasa-Democratic.jpg'
 metaDescription: Country Page Post
 ---
 

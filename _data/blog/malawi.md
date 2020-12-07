@@ -3,7 +3,7 @@ template: BlogPost
 path: /malawi
 date: 2020-11-23T07:08:53.137Z
 title: Malawi
-thumbnail: '/assets/capitals/malawi.jpg'
+thumbnail: 'https://i.pinimg.com/originals/c0/12/5d/c0125dfd87ddf8ed13b626feeff771de.jpg'
 metaDescription: Country Page Post
 ---
 

@@ -3,7 +3,7 @@ template: BlogPost
 path: /cabo-verde
 date: 2020-11-23T07:08:53.137Z
 title: Cape Verde
-thumbnail: '/assets/capitals/cabo-verde.jpg'
+thumbnail: 'https://www.worldatlas.com/upload/10/48/d5/shutterstock-317019080.jpg'
 metaDescription: Country Page Post
 ---
 

@@ -3,7 +3,7 @@ template: BlogPost
 path: /comoros
 date: 2020-11-23T07:08:53.137Z
 title: Comoros
-thumbnail: '/assets/capitals/comoros.jpg'
+thumbnail: 'https://www.nationsonline.org/gallery/Comoros/Mutsamudu-Anjouan-Islands-Comoros.jpg'
 metaDescription: Country Page Post
 ---
 

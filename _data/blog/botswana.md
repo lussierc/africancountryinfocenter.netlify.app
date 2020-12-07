@@ -3,7 +3,7 @@ template: BlogPost
 path: /botswana
 date: 2020-11-23T07:08:53.137Z
 title: Botswana
-thumbnail: '/assets/capitals/botswana.jpg'
+thumbnail: 'https://i.pinimg.com/736x/e2/8d/cb/e28dcbadce1e48e6e39bdb67e4b26697.jpg'
 metaDescription: Country Page Post
 ---
 

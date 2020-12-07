@@ -3,7 +3,7 @@ template: BlogPost
 path: /burundi
 date: 2020-11-23T07:08:53.137Z
 title: Burundi
-thumbnail: '/assets/capitals/burundi.jpg'
+thumbnail: 'https://cdn.britannica.com/63/125063-050-332A70CC/Bujumbura-Burundi.jpg'
 metaDescription: Country Page Post
 ---
 

@@ -3,7 +3,7 @@ template: BlogPost
 path: /angola
 date: 2020-11-23T07:08:53.137Z
 title: Angola
-thumbnail: '/assets/capitals/angola.jpg'
+thumbnail: 'https://cdn.britannica.com/31/195831-050-ABDCE370/Luanda-Angola.jpg'
 metaDescription: Country Page Post
 ---
 
