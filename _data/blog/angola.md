@@ -24,8 +24,7 @@ thumbnail: 'https://cdn.britannica.com/31/195831-050-ABDCE370/Luanda-Angola.jpg'
 * GDP Growth (annual %) in 2019: -.9
 * GDP Per Capita: 2973.6
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQERi977xyLdXNqev7jM7BWEIoWhHBoA4iSBtQy6DlT8mcBFDu7Wc6opurBoo_OyAmkPm__Y-q1i4lv/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
-
+test
 #### References:
 
 * [Capital Image](https://cdn.britannica.com/31/195831-050-ABDCE370/Luanda-Angola.jpg)
